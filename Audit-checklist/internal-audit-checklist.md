@@ -3,6 +3,8 @@ An audit checklist is a list of items an auditor reviews to confirm that policie
 
 It helps verify compliance and highlight weaknesses.
 
+Example:
+
 | Control Area | Requirement | Evidence | Status |
 |--------------|-------------|----------|--------|
 | Policies | Policies documented and approved | Policy repository | ✔ |
