@@ -1,4 +1,5 @@
 # Incident Response Procedure
+Provides steps for detecting, reporting, containing, and recovering from security incidents.
 
 1. Detect – Identify suspicious activity.
 2. Report – Notify security team immediately.
