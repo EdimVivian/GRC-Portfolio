@@ -1,4 +1,5 @@
 # Change Management Procedure
+Shows how to request, approve, test, and implement changes safely.
 
 ## Purpose
 To provide a step-by-step process for requesting, reviewing, approving, implementing, and documenting changes.
