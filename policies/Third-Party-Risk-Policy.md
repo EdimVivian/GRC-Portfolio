@@ -1,4 +1,5 @@
 # Third-Party Risk Policy
+Describes how the organisation checks and monitors risks from external partners.
 
 ## Purpose
 Manage risks associated with external partners.
