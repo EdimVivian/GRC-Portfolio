@@ -1,1 +1,75 @@
 
+# Governance, Risk & Compliance (GRC) Portfolio
+
+This portfolio showcases practical GRC artefacts I created while learning Governance, Risk & Compliance.  
+It includes policies, standards, procedures, risk registers, compliance matrices, incident templates, audit checklists, and business impact analysis documents.
+
+## Contents
+- Policies  
+- Standards  
+- Procedures  
+- Risk Register  
+- Compliance Matrix  
+- Incident Report Template  
+- Audit Checklist  
+- Business Impact Analysis (BIA)
+
+
+# 1. Policies
+Policies are high-level statements that define an organisation’s rules, expectations, and security direction.  
+They answer: **“What must we do?”**
+
+### Included:
+- Information Security Policy
+- Access Control Policy
+- Acceptable Use Policy
+- Vendor Management Policy
+- Data Privacy Policy
+- Change Management Policy
+- Backup- and Recovery Policy
+- Third Party Risk Policy
+
+
+# 2. Standards
+Standards define **mandatory controls** that support policies.  
+They answer: **“What requirements must be followed?”**
+
+### Included:
+- Password Standard
+- Encryption Standard
+- Endpoint Security Standard
+
+#  3. Procedures
+Procedures are step-by-step instructions.  
+They answer: **“How do we do it?”**
+
+### Included:
+- User Access Provisioning Procedure
+- Incident Response Procedure
+- Change Management Procedure
+- Backup Procedure
+
+
+#  4. Risk Register
+A risk register documents risks, likelihood, impact, controls, and ownership.  
+It answers: **“What could go wrong, and how do we manage it?”**
+
+
+#  5. Compliance Matrix
+A compliance matrix maps regulatory requirements to implemented controls.  
+It answers: **“Are we compliant?”**
+
+
+#  6. Incident Report Template
+Used to document security incidents clearly and consistently.
+
+
+#  7. Audit Checklist
+A checklist used by auditors to verify compliance with policies and standards.
+
+
+# 8. Business Impact Analysis (BIA)
+A BIA identifies critical processes, impacts of disruption, and recovery priorities.
+
+
+All documents in this repository are created for learning purposes and demonstrate practical GRC skills.
