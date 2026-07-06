@@ -1,4 +1,5 @@
 # Access Control Policy
+Explains how users get access to systems and ensures people only access what they need.
 
 ## Purpose
 To ensure users have appropriate access based on job responsibilities.
