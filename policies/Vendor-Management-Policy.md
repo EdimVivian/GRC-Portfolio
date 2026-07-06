@@ -1,5 +1,6 @@
 
 # Vendor Management Policy
+Ensures third‑party vendors meet security requirements before working with the organisation.
 
 ## Purpose
 Ensure third-party vendors meet security, privacy, and compliance requirements.
