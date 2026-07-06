@@ -1,4 +1,5 @@
 # Data Privacy Policy
+Explains how personal data is collected, stored, used, and protected according to privacy laws.
 
 ## Purpose
 Protect personal data and ensure compliance with GDPR and privacy regulations.
