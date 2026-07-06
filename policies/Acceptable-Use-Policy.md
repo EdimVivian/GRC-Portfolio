@@ -1,4 +1,5 @@
 # Acceptable Use Policy
+Tells employees what they can and cannot do with company devices, networks, and data.
 
 ## Purpose
 Define acceptable use of company systems.
