@@ -1,4 +1,5 @@
 # User Access Provisioning Procedure
+Explains how new users get accounts and permissions.
 
 1. Manager submits access request.
 2. IT verifies approval and creates account.
