@@ -1,4 +1,5 @@
 # Change Management Policy
+Defines rules for making changes to systems so updates don’t break things or create security risks.
 
 ## Purpose
 Ensure changes to systems are controlled and documented.
