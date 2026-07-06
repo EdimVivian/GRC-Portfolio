@@ -1,4 +1,7 @@
 # Incident Report
+An incident report documents what happened during a security incident, including impact, actions taken, and lessons learned.
+
+It ensures incidents are handled consistently and traceably.
 
 ## Incident Details
 - Date/Time:
