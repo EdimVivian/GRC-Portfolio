@@ -1,5 +1,8 @@
 
 # Compliance Matrix (ISO 27001 Example)
+A compliance matrix maps requirements (e.g., ISO 27001 controls) to evidence showing how the organisation meets them.
+
+It helps prove compliance and identify gaps.
 
 | Requirement | Control Implemented | Evidence | Status |
 |------------|----------------------|----------|--------|
