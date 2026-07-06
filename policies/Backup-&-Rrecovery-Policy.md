@@ -1,4 +1,5 @@
 # Backup & Recovery Policy
+Ensures important data is backed up and can be restored if something goes wrong.
 
 ## Purpose
 Ensure data availability and integrity.
