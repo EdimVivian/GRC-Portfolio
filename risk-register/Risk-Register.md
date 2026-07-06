@@ -3,7 +3,7 @@ A risk register is a list of things that could go wrong, how likely they are, ho
 
 It helps organisations understand and manage threats.
 
-
+Example:
 | ID   | Risk Description     | Likelihood  | Impact   | Risk Score  | Controls            | Owner            | Status |
 |----  |------------------    |----------   |--------  |----------   |----------           |-------           |--------|
 | 01   | Phishing attack      | Medium      | High     | 12          | MFA, training       | Security Lead    | Open |
