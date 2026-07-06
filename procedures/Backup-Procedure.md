@@ -1,4 +1,5 @@
 # Backup Procedure
+Explains how backups are performed, stored, tested, and monitored.
 
 ## Purpose
 To ensure critical data and systems are backed up, protected, and recoverable in case of failure, corruption, or disaster.
