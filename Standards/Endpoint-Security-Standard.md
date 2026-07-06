@@ -1,4 +1,5 @@
 # Endpoint Security Standard
+Lists required security controls for laptops, desktops, and mobile devices (e.g., antivirus, updates, firewalls).
 
 ## Purpose
 To define mandatory security requirements for all endpoints, including laptops, desktops, mobile devices, and servers.
