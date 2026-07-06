@@ -1,4 +1,5 @@
 # Password Standard
+Sets rules for password length, complexity, and rotation.
 
 - Minimum length: 12 characters
 - Must include upper, lower, number, symbol
