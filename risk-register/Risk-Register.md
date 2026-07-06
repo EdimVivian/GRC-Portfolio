@@ -1,4 +1,8 @@
 # Risk Register
+A risk register is a list of things that could go wrong, how likely they are, how bad they would be, and what controls exist to reduce the risk.
+
+It helps organisations understand and manage threats.
+
 
 | ID   | Risk Description     | Likelihood  | Impact   | Risk Score  | Controls            | Owner            | Status |
 |----  |------------------    |----------   |--------  |----------   |----------           |-------           |--------|
