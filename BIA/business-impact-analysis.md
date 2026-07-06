@@ -1,4 +1,7 @@
 # Business Impact Analysis (BIA)
+A BIA identifies critical business processes, the impact if they stop working, and how quickly they must be restored.
+
+It helps organisations plan for continuity and disaster recovery.
 
 ## Process Information
 - Process Name:
