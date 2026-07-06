@@ -1,4 +1,5 @@
 # Information Security Policy
+Defines how the organisation protects its information from unauthorised access, misuse, or loss.
 
 ## Purpose
 To establish the organisation’s approach to protecting information assets.
